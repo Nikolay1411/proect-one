@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        .wrapper {
+            width: 600px;
+            border: 1px solid black;
+            margin: 60px auto 20px;
+
+        }
+
+        .content {
+            border: 1px solid black;
+            padding: 15px;
+        }
+
+        .clearfix > * {
+            float: left;
+        }
+
+        .clearfix:after {
+            display: block;
+            content: '';
+            clear: both;
+
+        }
+
+        .menu > li {
+            list-style-type: none;
+
+
+        }
+
+        .block:not(.block:last-child) {
+            border: 1px solid black;
+            margin-bottom: 20px;
+
+        }
+        .header{
+            width: 100%;
+            background: coral;
+            position: fixed;
+            left: 0;
+            top: 0;
+
+        }
+        .item{
+            text-align: justify;
+
+        }
+        li > a:link,li > a:visited,li>a, li{
+            text-decoration: none;
+            color: wheat;
+            font-weight: bold;
+            font-size: 20px;
+
+            background: coral;
+            padding: 10px 20px;
+        }
+        .sidebar{
+            border: 1px solid black;
+        }
+        li>a:hover{
+           background: olive;
+        }
+        li >a:active{
+            background: olive;
+            color:white;
+        }
+        img{
+            width: 150px;
+            float:left;
+
+
+        }
+        .footer{
+           width: 100%;
+            background: cornflowerblue;
+            text-align: center;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <ul class="clearfix menu">
+        <li><a href="">Главная</a> </li>
+        <li><a href="#item1">Информация</a></li>
+        <li><a href="">Галерея</a></li>
+        <li><a href="">Обратная связь</a></li>
+
+
+    </ul>
+</div>
+<div class="wrapper clearfix">
+
+    <div class="content clearfix">
+        <div class="item">
+            <h1>Заголовок №1</h1>
+            <img src="https://selcdn.fedsp.com/aquila/6/65365/135ca8fdb92d2b3.jpeg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus explicabo molestiae natus neque nobis
+                praesentium quisquam sit velit? A adipisci atque eligendi exercitationem ipsa ipsam laudantium minus
+                natus nihil odio, perferendis placeat saepe tempora totam vero? Asperiores deleniti, doloribus iste
+                magni necessitatibus possimus repellat! Ad atque cumque error in quidem! Amet corporis dolorum expedita
+                iure maiores officiis quaerat? Aut, perferendis?</p>
+        </div>
+        <div class="item">
+            <h1>Заголовок №2</h1>
+            <img src="https://selcdn.fedsp.com/aquila/6/65365/135ca8fdb92d2b3.jpeg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus explicabo molestiae natus neque nobis
+                praesentium quisquam sit velit? A adipisci atque eligendi exercitationem ipsa ipsam laudantium minus
+                natus nihil odio, perferendis placeat saepe tempora totam vero? Asperiores deleniti, doloribus iste
+                magni necessitatibus possimus repellat! Ad atque cumque error in quidem! Amet corporis dolorum expedita
+                iure maiores officiis quaerat? Aut, perferendis?</p>
+        </div>
+        <div class="item">
+            <h1>Заголовок №3</h1>
+            <img src="https://selcdn.fedsp.com/aquila/6/65365/135ca8fdb92d2b3.jpeg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus explicabo molestiae natus neque nobis
+                praesentium quisquam sit velit? A adipisci atque eligendi exercitationem ipsa ipsam laudantium minus natus
+                nihil odio, perferendis placeat saepe tempora totam vero? Asperiores deleniti, doloribus iste magni
+                necessitatibus possimus repellat! Ad atque cumque error in quidem! Amet corporis dolorum expedita iure
+                maiores officiis quaerat? Aut, perferendis?</p>
+        </div>
+        <div class="item">
+            <h1>Заголовок №4</h1>
+            <img src="https://selcdn.fedsp.com/aquila/6/65365/135ca8fdb92d2b3.jpeg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus explicabo molestiae natus neque nobis
+                praesentium quisquam sit velit? A adipisci atque eligendi exercitationem ipsa ipsam laudantium minus natus
+                nihil odio, perferendis placeat saepe tempora totam vero? Asperiores deleniti, doloribus iste magni
+                necessitatibus possimus repellat! Ad atque cumque error in quidem! Amet corporis dolorum expedita iure
+                maiores officiis quaerat? Aut, perferendis?</p>
+        </div>
+        <div class="item">
+        <h1>Заголовок №5</h1>
+        <img src="https://selcdn.fedsp.com/aquila/6/65365/135ca8fdb92d2b3.jpeg" alt="">
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus explicabo molestiae natus neque nobis
+            praesentium quisquam sit velit? A adipisci atque eligendi exercitationem ipsa ipsam laudantium minus natus
+            nihil odio, perferendis placeat saepe tempora totam vero? Asperiores deleniti, doloribus iste magni
+            necessitatibus possimus repellat! Ad atque cumque error in quidem! Amet corporis dolorum expedita iure
+            maiores officiis quaerat? Aut, perferendis?</p>
+    </div>
+        <div class="item">
+            <h1>Заголовок №6</h1>
+            <img src="https://selcdn.fedsp.com/aquila/6/65365/135ca8fdb92d2b3.jpeg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus explicabo molestiae natus neque nobis
+                praesentium quisquam sit velit? A adipisci atque eligendi exercitationem ipsa ipsam laudantium minus natus
+                nihil odio, perferendis placeat saepe tempora totam vero? Asperiores deleniti, doloribus iste magni
+                necessitatibus possimus repellat! Ad atque cumque error in quidem! Amet corporis dolorum expedita iure
+                maiores officiis quaerat? Aut, perferendis?</p>
+        </div>
+        <div class="item" id="item1">
+            <h1>Информация о нас</h1>
+            <img src="https://selcdn.fedsp.com/aquila/6/65365/135ca8fdb92d2b3.jpeg" alt="">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus explicabo molestiae natus neque nobis
+                praesentium quisquam sit velit? A adipisci atque eligendi exercitationem ipsa ipsam laudantium minus natus
+                nihil odio, perferendis placeat saepe tempora totam vero? Asperiores deleniti, doloribus iste magni
+                necessitatibus possimus repellat! Ad atque cumque error in quidem! Amet corporis dolorum expedita iure
+                maiores officiis quaerat? Aut, perferendis?</p>
+        </div>
+
+
+    </div>
+    <div class="footer"></div>
+
+</div>
+</div>
+</body>
+</html>

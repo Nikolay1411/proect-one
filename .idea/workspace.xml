@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ef4e203c-ef5c-44b1-b211-79b3b3c186db" name="Default Changelist" comment="Доделываем классную работу">
+      <change beforePath="$PROJECT_DIR$/.gitignor" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/git init" beforeDir="false" afterPath="$PROJECT_DIR$/kurs.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="lesson1" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="lesson11" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1uttxSiKjxeCrUaZgyRjKrMcSMD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.idea" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\git2021\proect-one\.idea" />
+      <recent name="C:\Users\user\Desktop\git2021\proect-one" />
+      <recent name="C:\Users\user\Desktop\git2021\tasks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef4e203c-ef5c-44b1-b211-79b3b3c186db" name="Default Changelist" comment="" />
+      <created>1625496959577</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625496959577</updated>
+      <workItem from="1625496960817" duration="3636000" />
+      <workItem from="1625753678627" duration="900000" />
+      <workItem from="1625754902838" duration="4400000" />
+      <workItem from="1626100035213" duration="5513000" />
+      <workItem from="1626704386776" duration="5867000" />
+      <workItem from="1626964213970" duration="3514000" />
+      <workItem from="1627308470284" duration="7212000" />
+      <workItem from="1627567835536" duration="6519000" />
+      <workItem from="1627913983214" duration="529000" />
+      <workItem from="1627914895703" duration="1695000" />
+      <workItem from="1627916707161" duration="1815000" />
+      <workItem from="1627918557724" duration="1259000" />
+      <workItem from="1628173066393" duration="1780000" />
+      <workItem from="1628174895178" duration="1820000" />
+      <workItem from="1628176752045" duration="1822000" />
+      <workItem from="1628178613204" duration="570000" />
+      <workItem from="1628518650400" duration="1779000" />
+      <workItem from="1628520610895" duration="1779000" />
+      <workItem from="1628522419356" duration="1303000" />
+      <workItem from="1628778219788" duration="982000" />
+      <workItem from="1628779321854" duration="1780000" />
+      <workItem from="1628781132968" duration="1782000" />
+      <workItem from="1628782991801" duration="587000" />
+      <workItem from="1629126733465" duration="1780000" />
+      <workItem from="1629128551230" duration="952000" />
+      <workItem from="1629382808164" duration="1817000" />
+      <workItem from="1629384657349" duration="1781000" />
+      <workItem from="1629386470191" duration="1782000" />
+      <workItem from="1629388290709" duration="321000" />
+      <workItem from="1629728487764" duration="466000" />
+      <workItem from="1629728976396" duration="1780000" />
+      <workItem from="1629730792339" duration="1779000" />
+      <workItem from="1629732600080" duration="1658000" />
+      <workItem from="1630332992566" duration="819000" />
+      <workItem from="1630334439056" duration="1784000" />
+      <workItem from="1630336292635" duration="1780000" />
+      <workItem from="1630338101445" duration="1169000" />
+      <workItem from="1630592461795" duration="379000" />
+      <workItem from="1630592975024" duration="1785000" />
+      <workItem from="1630594791293" duration="1783000" />
+      <workItem from="1630596609244" duration="1609000" />
+      <workItem from="1631197457903" duration="780000" />
+      <workItem from="1631198287669" duration="4000" />
+      <workItem from="1631199394116" duration="1781000" />
+      <workItem from="1631201204227" duration="554000" />
+      <workItem from="1631201773829" duration="1273000" />
+      <workItem from="1631542982418" duration="13000" />
+      <workItem from="1631543505049" duration="1779000" />
+      <workItem from="1631545316491" duration="1780000" />
+      <workItem from="1631547130656" duration="677000" />
+      <workItem from="1632148267525" duration="193000" />
+      <workItem from="1632148942246" duration="1784000" />
+      <workItem from="1632150752428" duration="1783000" />
+      <workItem from="1632152561240" duration="934000" />
+      <workItem from="1632153654081" duration="75000" />
+      <workItem from="1632407925716" duration="584000" />
+      <workItem from="1633616742152" duration="1779000" />
+      <workItem from="1633618574564" duration="493000" />
+    </task>
+    <task id="LOCAL-00001" summary="добавил файл app.js">
+      <created>1625497654936</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625497654936</updated>
+    </task>
+    <task id="LOCAL-00002" summary="добавил файл app.js">
+      <created>1625754927653</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625754927653</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="добавил файл app.js" />
+    <MESSAGE value="Доделываем классную работу" />
+    <option name="LAST_COMMIT_MESSAGE" value="Доделываем классную работу" />
+  </component>
+</project>

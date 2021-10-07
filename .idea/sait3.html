@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        @import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+        .header{
+            color: white;
+            width: 100%;
+            background: url("../back.jpg") no-repeat;
+            background-size: 100%;
+            /*height: 1500px;*/
+            position: relative;
+        }
+        .top-menu{
+            display: flex;
+            justify-content: space-between;
+            position: absolute;
+            top: 0;
+            width: 100%;
+
+        }
+        .header-content{
+          display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 600px;
+        }
+
+        *{
+            margin: 0;
+            padding: 0;
+            font-family: Montserrat,Serif;
+        }
+        ul{
+            display: flex;
+            list-style-type: none;
+            /*color: ;*/
+        }
+
+        a{
+            line-height: 40px;
+            padding: 15px;
+            text-decoration: none;
+        }
+        ul > li a:hover{
+            border-bottom: 3px solid black;
+
+        }
+        .parent{
+            background:white;
+            justify-content: space-between;
+            display: flex;
+             width: 200px;
+        }
+        .child{
+          height:1200px;
+            width:2000px;
+            padding: 10px 10px 10px 99px;
+        }
+        h2{
+            text-align: center;
+        }
+        img{
+            height: 400px;
+            width: 600px;
+        }
+        .conteiner{
+            width: 1200px;
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+<div class="header">
+    <div class="conteiner">
+    <div class="top-menu">
+        <p>INSTANT</p>
+        <ul>
+            <li><a href="https://yandex.ru/">Home</a> </li>
+            <li><a href="https://yandex.ru/">About</a></li>
+            <li><a href="https://yandex.ru/">Works</a></li>
+        </ul>
+    </div>
+    <div class="header-content">
+        <div>
+          <p>HELLO PEOPLE,MY NAME IS</p>
+        <h1>PAUL SILVA </h1>
+        <p>  WEB DESIGNER,DEVELOPER & GAME ADDICT </p>
+    </div>
+    </div>
+    </div>
+</div>
+<div class="parent1">
+    <h2>My Portfolio</h2>
+    <div class="child">
+        <img src="../folio01.png" alt="ttt">
+        <img src="../folio02.png">
+        <img src="../folio03.png">
+        <img src="../folio04.png">
+        <img src="../folio05.png">
+        <img src="../folio06.png">
+        <p>
+            komoikoiik
+        </p>
+    </div>
+</div>
+</body>
+</html>
